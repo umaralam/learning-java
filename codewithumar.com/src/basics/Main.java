@@ -17,6 +17,7 @@ public class Main {
 			else {
 				System.out.println("number is not palindrome");
 			}
+		System.out.println("done with reversing a number and checking if it is palindrom");
 	}
 
 }
